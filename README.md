@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS/hub?share=true)]([https://your-solution-url.com](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS/hub?share=true))
+- Live Site URL: [ https://justine1285.github.io/Blog-preview-card-using-css-grid/]( https://justine1285.github.io/Blog-preview-card-using-css-grid/)
 
 ## My process
 
